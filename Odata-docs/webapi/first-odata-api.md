@@ -24,7 +24,7 @@ This sample:
 
 ## Register OData
 
-Add the [Microsoft.AspNetCore.OData](https://www.nuget.org/packages/Microsoft.AspNetCore.OData) NuGet package to the project.
+Add the [Microsoft.AspNetCore.OData](https://www.nuget.org/packages/Microsoft.AspNetCore.OData), v8 or higher, NuGet package to the project.
 
 Update the `ConfigureServices` method in *Startup.cs* with the following highlighted code:
 
